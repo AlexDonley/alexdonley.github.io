@@ -1,0 +1,14 @@
+:root {
+    font-family: sans-serif;
+  }
+  
+body {
+    max-width: 600px;
+    margin: 0 auto;
+    /* background-color: rgb(56 56 56);
+    color: white; */
+}
+
+h1 {
+    text-align: center;
+}
