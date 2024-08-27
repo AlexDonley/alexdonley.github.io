@@ -13,9 +13,9 @@ pin: true
 This is a test post for my new chirpy site. For now I'm testing (a) whether the post text loads, (b) how to add hyperlinks, and (c) how to add images.
 
 My current projects are:
-  - [Phonabulary](alexdonley.github.io/phonabulary)
-  - [Watch Your Tone](alexdonley.github.io/watch_your_tone)
-  - [Speak Up!](alexdonley.github.io/speak_up)
+  - [Phonabulary](https://alexdonley.github.io/phonabulary)
+  - [Watch Your Tone](https://alexdonley.github.io/watch_your_tone)
+  - [Speak Up!](https://alexdonley.github.io/speak_up)
 
 Email me at <iamdonley98@gmail.com> .
 
