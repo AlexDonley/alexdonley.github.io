@@ -12,7 +12,6 @@ This is a test post for my new chirpy site. For now I'm testing (a) whether the 
 
 My current projects are:
   - [Phonabulary](https://alexdonley.github.io/phonabulary)
-  ![Phonabulary](_img/Phonabulary.png){: width="200"}
   - [Watch Your Tone](https://alexdonley.github.io/watch_your_tone)
   - [Speak Up!](https://alexdonley.github.io/speak_up)
 
